@@ -1,12 +1,9 @@
 # 🐍 Exercícios de Lógica de Programação e Algoritmos
 
-[![Status](https://img.shields.io/badge/Status-Finalizado-success)]()
-[![Linguagem](https://img.shields.io/badge/Linguagem-Python_3-blue)]()
-
-## 📌 Sobre o Repositório
+##  Sobre o Repositório
 Este repositório contém resoluções de exercícios práticos desenvolvidos durante a disciplina de Lógica de Programação e Algoritmos. O objetivo principal destes scripts é demonstrar a aplicação de conceitos fundamentais de programação e estruturação de software, saindo da lógica pura para a resolução de problemas simulados do mundo real.
 
-## 🚀 Funcionalidades e Exercícios
+##  Funcionalidades e Exercícios
 
 O repositório é composto por quatro sistemas principais, cada um focando em diferentes conceitos de lógica:
 
@@ -26,13 +23,11 @@ O repositório é composto por quatro sistemas principais, cada um focando em di
     * **Descrição:** Aplicação interativa de terminal que simula uma agenda. Possui um menu principal que permite cadastrar novos contatos, consultar (exibindo todos, filtrando por ID ou filtrando por atividade) e remover registros existentes.
     * **Conceitos aplicados:** Estruturas de dados avançadas (Listas e Dicionários), manipulação de escopo (`global`), operações de busca e remoção em coleções (`append`, `remove`, `for in`), e estruturação de menus interativos.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Python 3** 
 
-## 💻 Como executar os projetos
+##  Como executar os projetos
 
 1. Certifique-se de ter o [Python](https://www.python.org/downloads/) instalado na sua máquina.
 2. Clone este repositório:
-```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
