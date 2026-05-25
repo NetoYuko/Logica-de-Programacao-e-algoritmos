@@ -5,8 +5,6 @@ Este repositório contém resoluções de exercícios práticos desenvolvidos du
 
 ##  Funcionalidades e Exercícios
 
-O repositório é composto por quatro sistemas principais, cada um focando em diferentes conceitos de lógica:
-
 * **1. Calculadora de Mensalidade (Plano de Saúde):**
     * **Descrição:** Sistema simples que calcula o valor da mensalidade de um cliente com base em sua faixa etária.
     * **Conceitos aplicados:** Variáveis, entrada/saída de dados, operadores matemáticos e estruturas de decisão encadeadas (`if`, `elif`, `else`).
