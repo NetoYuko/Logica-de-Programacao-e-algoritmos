@@ -23,7 +23,7 @@ Este repositório contém resoluções de exercícios práticos desenvolvidos du
 
 ##  Tecnologias Utilizadas
 
-* **Python 3** 
+* **Python** 
 
 ##  Como executar os projetos
 
